@@ -1,3 +1,9 @@
 .venv
 token.json
 senha_portal.py0.Apostila/Apostila, materiais e certificado - Apostila Python.zip
+
+# Credenciais e arquivos sensíveis
+.env
+**/.env
+credentials.json
+**/credentials.json
