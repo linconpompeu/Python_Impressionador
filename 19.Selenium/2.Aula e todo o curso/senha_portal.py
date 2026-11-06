@@ -1,0 +1,1 @@
+senha_portal = "Well270892@"
